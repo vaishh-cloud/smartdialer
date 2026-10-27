@@ -89,7 +89,7 @@ Open your browser at **`http://localhost:8000`** to access:
 
 ---
 
-## 🧪 What We Tested & Verified
+## 🧪 What is Tested & Verified
 
 | Test Suite | File | What is Verified |
 | :--- | :--- | :--- |
