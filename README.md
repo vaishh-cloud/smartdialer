@@ -56,7 +56,7 @@ The virtual environment and dependencies are already configured in `backend/.ven
 
 ### 1. Run Automated Test Suite (27 Tests)
 ```powershell
-& ".\backend\.venv\Scripts\pytest.exe" -v
+& ".\backend\.venv\Scripts\python.exe" -m pytest -v
 ```
 All tests execute against an isolated test database in seconds.
 
