@@ -1,4 +1,4 @@
-# CredResolve SmartDialer
+# SmartDialer
 
 A robust, backend-first **SmartDialer** prototype built for high concurrency, zero-abandon safety compliance, and fault tolerance across volatile telecom networks.
 
